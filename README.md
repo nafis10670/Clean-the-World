@@ -8,12 +8,15 @@ into recyclable bins and non-recyclable trash can only go into non-recyclable bi
 survive. But be careful, the player's speed will continue to increase too with time.</p1>
 
 <h2>Team</h2>
-<li>
-	<a href="https://github.com/nafis10670">Nafis Saami Azad</a>
-</li>
-<li>
-	<a href="https://github.com/Saimul-Shanto">Md. Saimul Haque Shanto</a>
-</li>
-<li>
-	<a href="https://github.com/Ratun011">Ratun Rahman</a>
-</li>
+<ul>
+	<li>
+		<a href="https://github.com/nafis10670">Nafis Saami Azad</a>
+	</li>
+	<li>
+		<a href="https://github.com/Saimul-Shanto">Md. Saimul Haque Shanto</a>
+	</li>
+	<li>
+		<a href="https://github.com/Ratun011">Ratun Rahman</a>
+	</li>
+</ul>
+<h3><strong>Work under progress</strong></h3>
