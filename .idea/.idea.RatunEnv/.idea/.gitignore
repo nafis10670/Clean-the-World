@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.RatunEnv.iml
+# Datasource local storage ignored files
+/../../../../../../:\unity-project\RatunEnv\.idea\.idea.RatunEnv\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
