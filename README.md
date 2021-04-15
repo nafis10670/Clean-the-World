@@ -19,4 +19,4 @@ survive. But be careful, the player's speed will continue to increase too with t
 		<a href="https://github.com/Ratun011">Ratun Rahman</a>
 	</li>
 </ul>
-<h3><strong>Work under progress</strong></h3>
+<h3><strong>**Work under progress**</strong></h3>
